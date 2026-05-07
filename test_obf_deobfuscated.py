@@ -22,6 +22,12 @@ SUMMARY:
     6. Uses ctypes (PyDLL) to call CPython internals directly
 
 This is essentially a MALICIOUS LOADER / DROPPER.
+
+KEY (hardcoded in bytecode):
+    K7mQ9xT2vB4nZ8pR1sY6dF0aL3cW5eH-WLD-X9K2-MQ7A-ZP4T-R8V6-CN3B
+
+    Correct key message: "Чувак как ты это крякнул отпиши @Banhoto"
+    Wrong key message:   "Неверный ключ"
 =============================================================================
 """
 
